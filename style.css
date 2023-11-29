@@ -43,9 +43,13 @@ body {
   box-sizing: border-box;
 }
 #mainContainer {
-  background-color: #747bff;
+  background-color: gold;
+  color: black;
   width: 150px;
   height: 150px;
   border-radius: 20px;
+}
+a{
+  display: block;
 }
 /* BASIC RESET END */
